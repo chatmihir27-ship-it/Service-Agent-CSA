@@ -333,4 +333,4 @@ This project is open-source software licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center">Built to bridge the digital divide — empowering every citizen to access what is rightfully theirs.</p>
+<p align="center">Built to bridge the digital divide — empowering every citizen to access what is rightfully theirs.</p>  ////
